@@ -1,0 +1,6 @@
+{
+  "name": "EduFinance Pro - School Management & Financial Records System",
+  "description": "Enterprise-grade school financial management platform featuring strict role-based access control (GM, Accountant, HOD, Vendor), student fees and vendor payables tracking, payment histories, audit trails, and multi-format reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
